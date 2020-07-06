@@ -13,19 +13,19 @@ Hence providing a very high accuracy in its predictions
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Sars-Cov-2. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 ## Model Architecture
-![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/Xx-Ashutosh-xX-temp-1-1/Resources/Model_Arch.PNG?raw=true)
+![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/master/Resources/Model_Arch.PNG?raw=true)
 
 
 ## Model Accuracy & Loss
-![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/Xx-Ashutosh-xX-temp-1-1/Resources/Model.png?raw=true)
+![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/master/Resources/Model.png?raw=true)
 
 
 ## Mask-Detection in an Image
-![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/Xx-Ashutosh-xX-temp-1-1/Resources/sample_prediction.png?raw=true)
+![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/master/Resources/sample_prediction.png?raw=true)
 
 
 ## Mask-Detection in a Real-Time Video-Stream
-![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/Xx-Ashutosh-xX-temp-1-1/Resources/Sample_GIF.gif?raw=true)
+![image](https://github.com/Xx-Ashutosh-xX/Real-Time-Face-Mask-Detection-Model/blob/master/Resources/Sample_GIF.gif?raw=true)
 
 ## Model & Dataset 
 
